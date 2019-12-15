@@ -1,0 +1,10 @@
+<?php
+defined('B_PROLOG_INCLUDED') and (B_PROLOG_INCLUDED === true) or die();
+
+$MESS["MODULE_DELIVERY_OPTIONS_TAB_NAME"] = "Настройки";
+$MESS["MODULE_DELIVERY_TAB_COMMON"] = "Общие";
+$MESS["MODULE_DELIVERY_EMAIL"] = "EMAIL для уведомлений";
+$MESS["MODULE_DELIVERY_FREQ"] = "Частота проверки";
+$MESS["MODULE_DELIVERY_OPTIONS_INPUT_APPLY"] = "Сохранить";
+$MESS["MODULE_DELIVERY_OPTIONS_INPUT_DEFAULT"] = "Сбросить";
+
